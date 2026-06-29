@@ -31,33 +31,30 @@ A terminal-based virtual shell written in Python.
 The goal of this project is to simulate a lightweight command-line operating system environment using Python. It is designed as a learning project to improve knowledge of Python, terminal applications, file systems, and software architecture.
 
 here is all available command :
-╔═══════════════════════════════════════════════════════╗
-║                SYSTEM CONSOLE COMMANDS                ║
-╠═══════════════════════════════════════════════════════╣
-║ help               - Show available commands          ║
-║ print              - Print text                       ║
-║ ls                 - List files and folders           ║
-║ cd                 - Change directory                 ║
-║ mkf                - Create file                      ║
-║ mkd                - Create folder                    ║
-║ rmf                - Remove file                      ║
-║ rmd                - Remove folder                    ║
-║ clear              - Clear screen                     ║
-║ exit               - exit system                      ║
-║ info               - Show future updates              ║
-║ spy                - Show inside a file               ║
-║ write              - Write a file                     ║
-║ history            - Show all history command         ║
-║ rename             - change old file name to new one  ║             
-║ clearhistory       - Clear all history                ║
-║ time / now         - Show current system time         ║
-║ pg <length>        - Generate a random password       ║
-║ ping <host>        - Ping a website or server         ║
-║ bot                - help you for understanding shell ║
-║ whereami           -show your corrent directory       ║
-║ move               -move file to another directory    ║
-║ package            -online package                    ║
-╚═══════════════════════════════════════════════════════╝
+ help               - Show available commands          
+ print              - Print text                       
+  ls                 - List files and folders           
+ cd                 - Change directory                 
+ mkf                - Create file                      
+ mkd                - Create folder                    
+ rmf                - Remove file                      
+ rmd                - Remove folder                    
+ clear              - Clear screen                     
+ exit               - exit system                      
+ info               - Show future updates              
+ spy                - Show inside a file               
+ write              - Write a file                     
+ history            - Show all history command         
+ rename             - change old file name to new one               
+ clearhistory       - Clear all history                
+ time / now         - Show current system time         
+ pg <length>        - Generate a random password       
+ ping <host>        - Ping a website or server         
+ bot                - help you for understanding shell 
+ whereami           -show your corrent directory       
+ move               -move file to another directory    
+ package            -online package                    
+
 ## Status
 
 🚧 This project is actively under development, and new features are added regularly.
